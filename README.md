@@ -12,7 +12,7 @@ Swoft View Component
 - composer command
 
 ```bash
-composer require swoft/view
+composer require swoft-fork/view
 ```
 
 ## Resources
